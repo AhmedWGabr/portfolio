@@ -1,7 +1,7 @@
 
 /* Hero Section */
 #hero {
-  background: url('/scr/images/hero-background.jpg') center center/cover no-repeat;
+  background: url('./scr/images/hero-background.jpg') center center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
